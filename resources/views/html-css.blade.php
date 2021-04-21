@@ -123,7 +123,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://perfecto-web.com/uploads/blog/2017/seo-tips-for-web-programmer-2-en.jpg" alt="Card image cap">
+                    <img class="img-fluid" src="https://perfecto-web.com/uploads/blog/2017/seo-tips-for-web-programmer-2-en.jpg" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">

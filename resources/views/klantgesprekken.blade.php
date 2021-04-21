@@ -132,7 +132,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://www.betafence.nl/sites/default/files/styles/news_1_column/public/media_root/betafence-academy-1200x400.jpg?itok=c51sDE0a" alt="Card image cap">
+                    <img class="img-fluid" src="https://www.betafence.nl/sites/default/files/styles/news_1_column/public/media_root/betafence-academy-1200x400.jpg?itok=c51sDE0a" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">

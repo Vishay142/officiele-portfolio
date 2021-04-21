@@ -123,7 +123,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://www.vacker360.com/wp-content/uploads/2020/07/php-development.png" alt="Card image cap">
+                    <img class="img-fluid" src="https://www.vacker360.com/wp-content/uploads/2020/07/php-development.png" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">

@@ -115,7 +115,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://wallpapercave.com/wp/wp6415208.jpg" alt="Card image cap">
+                    <img class="img-fluid" src="https://wallpapercave.com/wp/wp6415208.jpg" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -143,13 +143,13 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col">
-                                        <img class="" src="{{ asset('img/almere.png') }}" alt="Card image cap"><br>
+                                        <img class="img-fluid" src="{{ asset('img/almere.png') }}" alt="Card image cap"><br>
                                     </div>
                                     <div class="col">
-                                        <img class="" src="{{ asset('img/duvoorapp.png') }}" alt="Card image cap"><br>
+                                        <img class="img-fluid" src="{{ asset('img/duvoorapp.png') }}" alt="Card image cap"><br>
                                     </div>
                                 </div>
-                                <img class="" src="{{ asset('img/organigram.png') }}" alt="Card image cap"><br>
+                                <img class="img-fluid" src="{{ asset('img/organigram.png') }}" alt="Card image cap"><br>
 
 
                                 <h4 class="card-title">Verloop van de BPV</h4>
@@ -174,11 +174,11 @@
                             Ook heb ik soms geholpen bij het sorteren van de maps. Daar staat alle info in van
                             de stad waar je in verblijft. Het is de app verwerkt op een kaart. De maps moesten
                             gesorteerd worden om verzonden te worden naar hotels.
-                            <img class="" src="{{ asset('img/appmachine.png') }}" alt="Card image cap"><br>
+                            <img class="img-fluid" src="{{ asset('img/appmachine.png') }}" alt="Card image cap"><br>
                            <h4 class="card-title">Eindresultaten met AppMachine</h4>
-                        <img class="" src="{{ asset('img/dia.png') }}" alt="Card image cap"><br>
+                        <img class="img-fluid" src="{{ asset('img/dia.png') }}" alt="Card image cap"><br>
                         <h4 class="card-title">Afgetekende uren Duvoor Media</h4>
-                        <img class="" src="{{ asset('img/uren.png') }}" alt="Card image cap">
+                        <img class="img-fluid" src="{{ asset('img/uren.png') }}" alt="Card image cap">
                         <div class="card-footer">
                             <small class="text-muted">Vishay Boedhoe, 2091155</small>
                         </div>

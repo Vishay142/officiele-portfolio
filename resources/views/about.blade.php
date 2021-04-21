@@ -127,7 +127,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://wallpapercave.com/wp/wp6415210.jpg" alt="Card image cap">
+                    <img class="img-fluid" src="https://wallpapercave.com/wp/wp6415210.jpg" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -158,7 +158,7 @@
                                 </div>
                         </div>
                         <h4>Behaalde cijfers</h4>
-                        <img class="" src="{{ asset('img/cijfers.png') }}" alt="Card image cap">
+                        <img class="img-fluid" src="{{ asset('img/cijfers.png') }}" alt="Card image cap">
                 <div class="card-footer">
                     <small class="text-muted">Vishay Boedhoe, 2091155</small>
                 </div>

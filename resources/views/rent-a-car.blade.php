@@ -134,7 +134,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://jazel1.s3.us-east-1.amazonaws.com/LDyqFvwukHbapgqeMj142tdy4rpmfgtAfrhc/CDy2BvBgoiXPo024/Vm3qUg%3D%3D/FjioF%2B1vp2na70m8IWI87MNu4ro1VQde/header.jpg" alt="Card image cap" alt="Card image cap">
+                    <img class="img-fluid" src="https://jazel1.s3.us-east-1.amazonaws.com/LDyqFvwukHbapgqeMj142tdy4rpmfgtAfrhc/CDy2BvBgoiXPo024/Vm3qUg%3D%3D/FjioF%2B1vp2na70m8IWI87MNu4ro1VQde/header.jpg" alt="Card image cap" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -223,14 +223,14 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/assortiment.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/assortiment.png') }}" alt="Card image cap">
                                 <div class="text-dark">
                                     <h5>Voor iedereen te zien</h5>
                                 </div>
                             </div>
 
                             <div class="col">
-                                <img class="" src="{{ asset('img/assortiment1.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/assortiment1.png') }}" alt="Card image cap">
                                 <div class="text-dark">
                                     <h5>Na het inloggen</h5>
                                 </div>
@@ -256,7 +256,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/contact.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/contact.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -283,7 +283,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/registreren.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/registreren.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -310,7 +310,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/inloggen.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/inloggen.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -339,7 +339,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/reserveren.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/reserveren.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -365,7 +365,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/factuur.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/factuur.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -393,7 +393,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/wijzigen.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/wijzigen.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -420,7 +420,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/adminhome.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/adminhome.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -446,7 +446,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/gereserveerd.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/gereserveerd.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -473,7 +473,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/crud.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/crud.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -502,7 +502,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/toevoegen.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/toevoegen.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>
@@ -529,7 +529,7 @@
 
                         <div class="row">
                             <div class="col">
-                                <img class="" src="{{ asset('img/autowijzigen.png') }}" alt="Card image cap">
+                                <img class="img-fluid" src="{{ asset('img/autowijzigen.png') }}" alt="Card image cap">
                                 <div class="text-light">
                                     <h5>Contact</h5>
                                 </div>

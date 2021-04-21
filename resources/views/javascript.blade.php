@@ -123,7 +123,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://coursework.vschool.io/content/images/2017/09/JavaScriptBanner.png" alt="Card image cap">
+                    <img class="img-fluid" src="https://coursework.vschool.io/content/images/2017/09/JavaScriptBanner.png" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">

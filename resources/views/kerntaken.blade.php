@@ -125,7 +125,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://www.dicore-incasso.nl/wp-content/uploads/2016/10/vordering.jpg" alt="Card image cap" alt="Card image cap">
+                    <img class="img-fluid" src="https://www.dicore-incasso.nl/wp-content/uploads/2016/10/vordering.jpg" alt="Card image cap" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -149,13 +149,13 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://speakermagazine.com/wp-content/uploads/2017/09/iStock-176565702-1200x400.jpg" alt="Card image cap" alt="Card image cap">
+                    <img class="img-fluid" src="https://speakermagazine.com/wp-content/uploads/2017/09/iStock-176565702-1200x400.jpg" alt="Card image cap" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
                         <h4 class="card-title">Kerntaak 1</h4>
                         <p class="card-text">&#9745;Ik begon met het programma van eisen gemaakt, hierin heb ik het bedrijf omschreven en de probleemstelling uitgelegd.
-                            Ook heb ik beschreven voor welke doelgroep de website bedoeld is.<br><br>
+                            Ook heb ik beschreven voor welke doelgroep de website bedoeld is.<br><br>img-fluid
                             &#9745;Vervolgens begon met het functioneel ontwerp. Hier heb ik de
                             functionaliteiten van de website opgeschreven en heb ik het ontwerp gemaakt met draw.io.<br><br>
                             &#9745;In het projectplan heb ik een planning gemaakt met een takenlijst. <br><br>
@@ -220,7 +220,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://cdn.ttgtmedia.com/visuals/searchSOA/app_integration/soa_article_002.jpg" alt="Card image cap" alt="Card image cap">
+                    <img class="img-fluid" src="https://cdn.ttgtmedia.com/visuals/searchSOA/app_integration/soa_article_002.jpg" alt="Card image cap" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -256,7 +256,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://pbs.twimg.com/media/DcVU8CmVAAA-yFD.jpg" alt="Card image cap" alt="Card image cap">
+                    <img class="img-fluid" src="https://pbs.twimg.com/media/DcVU8CmVAAA-yFD.jpg" alt="Card image cap" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -307,7 +307,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://buddy.works/docs/static/articles/integrations/github-permissions/github-access-permissions-1.png" alt="Card image cap" alt="Card image cap">
+                    <img class="img-fluid" src="https://buddy.works/docs/static/articles/integrations/github-permissions/github-access-permissions-1.png" alt="Card image cap" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">

@@ -128,7 +128,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://www.smartphoneclub.com/wp-content/uploads/2018/04/android-1814600_1920-1200x400.jpg" alt="Card image cap" alt="Card image cap">
+                    <img class="img-fluid" src="https://www.smartphoneclub.com/wp-content/uploads/2018/04/android-1814600_1920-1200x400.jpg" alt="Card image cap" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -152,7 +152,7 @@
             <div class="col-12 mt-3">
                 <div class="card">
                     <div class="img-square-wrapper">
-                        <img class="" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Card image cap" alt="Card image cap">
+                        <img class="img-fluid" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Card image cap" alt="Card image cap">
                     </div>
                     <div class="card-horizontal">
                         <div class="card-body">
@@ -162,7 +162,7 @@
                                 een Android cursus volgen op Udacity. De ontwikkelingomgeving die
                                 ik heb gebruikt heet Android Studio. Ik heb een muziek-app gemaakt
                                 waar je mijn muziek kan afspelen. De screencast van anderhalve minuut kan je hieronder bekijken.<br><br>
-                                <video class="video-fluid z-depth-1" autoplay loop controls muted>
+                                <video class="video-fluid z-depth-1" width="100%" autoplay loop controls muted>
                                     <source src="{{ asset('img/android.mp4') }}" type="video/mp4" />
                                 </video>
 
@@ -181,7 +181,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://miro.medium.com/max/3840/1*UYABX3bGRV_ytnAio2ElNw.jpeg" alt="Card image cap" alt="Card image cap">
+                    <img class="img-fluid" src="https://miro.medium.com/max/3840/1*UYABX3bGRV_ytnAio2ElNw.jpeg" alt="Card image cap" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -194,7 +194,7 @@
                             Adobe XD gebruikt, omdat het mij werd aangeraden door de docenten. De screencast
                             van 5 minuten kan je hieronder bekijken.<br><br>
 
-                            <video class="video-fluid z-depth-1" autoplay loop controls muted>
+                            <video class="video-fluid z-depth-1" width="100%" autoplay loop controls muted>
                                 <source src="{{ asset('img/dv.mp4') }}" type="video/mp4" />
                             </video>
                         <div class="card-footer">
@@ -212,7 +212,7 @@
         <div class="col-12 mt-3">
             <div class="card">
                 <div class="img-square-wrapper">
-                    <img class="" src="https://481xy61dp22v2uqbx85ez1tw-wpengine.netdna-ssl.com/wp-content/themes/AppMachine2015/interface/images/logo-appmachine-dark@2x.png" alt="Card image cap">
+                    <img class="img-fluid" src="https://481xy61dp22v2uqbx85ez1tw-wpengine.netdna-ssl.com/wp-content/themes/AppMachine2015/interface/images/logo-appmachine-dark@2x.png" alt="Card image cap">
                 </div>
                 <div class="card-horizontal">
                     <div class="card-body">
@@ -226,7 +226,7 @@
                         de voor -en nadelen benoemen van de apps. Ten slotte moest ik mijn leerdoelen opschrijven
                         en deze later evalueren. De presentatie van 7 minuten kan je hieronder bekijken.<br><br>
 
-                            <video class="video-fluid z-depth-1" autoplay loop controls muted>
+                            <video class="video-fluid z-depth-1" width="100%" autoplay loop controls muted>
                                 <source src="{{ asset('img/vs.mp4') }}" type="video/mp4" />
                             </video>
 
