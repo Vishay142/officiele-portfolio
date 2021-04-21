@@ -125,7 +125,7 @@
             <div class="col-12 mt-3">
                 <div class="card">
                     <div class="img-square-wrapper">
-                        <img class="" src="https://wallpapercave.com/wp/wp6415171.jpg" class="img-fluid" alt="Card image cap">
+                        <img  class="img-fluid" src="https://wallpapercave.com/wp/wp6415171.jpg"  alt="Card image cap">
                     </div>
                     <div class="card-horizontal">
                         <div class="card-body">
@@ -241,7 +241,7 @@
             <div class="col-sm-6">
                 <div class="card">
                     <div class="img-square-wrapper">
-                        <img class="" src="https://www.smartphoneclub.com/wp-content/uploads/2018/04/android-1814600_1920-1200x400.jpg" class="img-fluid" alt="Card image cap">
+                        <img class="img-fluid" src="https://www.smartphoneclub.com/wp-content/uploads/2018/04/android-1814600_1920-1200x400.jpg" alt="Card image cap">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Keuzedelen</h5>
