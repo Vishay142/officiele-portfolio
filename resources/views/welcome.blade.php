@@ -125,7 +125,7 @@
             <div class="col-12 mt-3">
                 <div class="card">
                     <div class="img-square-wrapper">
-                        <img class="" src="https://wallpapercave.com/wp/wp6415171.jpg" alt="Card image cap">
+                        <img class="" src="https://wallpapercave.com/wp/wp6415171.jpg" class="img-fluid" alt="Card image cap">
                     </div>
                     <div class="card-horizontal">
                         <div class="card-body">
@@ -150,7 +150,7 @@
                 <div class="col-sm-6">
                     <div class="card">
                         <div class="img-square-wrapper">
-                            <img class="img" src="https://elearn.lifelearners.ng/demo/wp-content/uploads/2017/11/java-android-banner.jpg" alt="Card image cap">
+                            <img class="img" src="https://elearn.lifelearners.ng/demo/wp-content/uploads/2017/11/java-android-banner.jpg" class="img-fluid" alt="Card image cap">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Java</h5>
@@ -162,7 +162,7 @@
                 <div class="col-sm-6">
                     <div class="card">
                         <div class="img-square-wrapper">
-                            <img class="" src="https://www.bringyourownlaptop.co.nz/images/banner-html5-advertising.jpg" alt="Card image cap">
+                            <img class="" src="https://www.bringyourownlaptop.co.nz/images/banner-html5-advertising.jpg" class="img-fluid" alt="Card image cap">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">HTML & CSS</h5>
@@ -186,7 +186,7 @@
                 <div class="col-sm-6">
                     <div class="card">
                         <div class="img-square-wrapper">
-                            <img class="" src="https://www.vacker360.com/wp-content/uploads/2020/07/php-development.png" alt="Card image cap">
+                            <img class="" src="https://www.vacker360.com/wp-content/uploads/2020/07/php-development.png" class="img-fluid" alt="Card image cap">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PHP</h5>
@@ -205,7 +205,7 @@
             <div class="col-sm-6">
                 <div class="card">
                     <div class="img-square-wrapper">
-                        <img class="" src="https://jazel1.s3.us-east-1.amazonaws.com/LDyqFvwukHbapgqeMj142tdy4rpmfgtAfrhc/CDy2BvBgoiXPo024/Vm3qUg%3D%3D/FjioF%2B1vp2na70m8IWI87MNu4ro1VQde/header.jpg" alt="Card image cap">
+                        <img class="" src="https://jazel1.s3.us-east-1.amazonaws.com/LDyqFvwukHbapgqeMj142tdy4rpmfgtAfrhc/CDy2BvBgoiXPo024/Vm3qUg%3D%3D/FjioF%2B1vp2na70m8IWI87MNu4ro1VQde/header.jpg" class="img-fluid" alt="Card image cap">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Rent-a-Car</h5>
@@ -217,7 +217,7 @@
             <div class="col-sm-6">
                 <div class="card">
                     <div class="img-square-wrapper">
-                        <img class="" src="https://www.betafence.nl/sites/default/files/styles/news_1_column/public/media_root/betafence-academy-1200x400.jpg?itok=c51sDE0a" alt="Card image cap">
+                        <img class="" src="https://www.betafence.nl/sites/default/files/styles/news_1_column/public/media_root/betafence-academy-1200x400.jpg?itok=c51sDE0a" class="img-fluid" alt="Card image cap">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Klantgesprekken</h5>
@@ -229,7 +229,7 @@
             <div class="col-sm-6">
                 <div class="card">
                     <div class="img-square-wrapper">
-                        <img class="" src="https://www.dicore-incasso.nl/wp-content/uploads/2016/10/vordering.jpg" alt="Card image cap">
+                        <img class="" src="https://www.dicore-incasso.nl/wp-content/uploads/2016/10/vordering.jpg" class="img-fluid" alt="Card image cap">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Kerntaken</h5>
@@ -241,7 +241,7 @@
             <div class="col-sm-6">
                 <div class="card">
                     <div class="img-square-wrapper">
-                        <img class="" src="https://www.smartphoneclub.com/wp-content/uploads/2018/04/android-1814600_1920-1200x400.jpg" alt="Card image cap">
+                        <img class="" src="https://www.smartphoneclub.com/wp-content/uploads/2018/04/android-1814600_1920-1200x400.jpg" class="img-fluid" alt="Card image cap">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Keuzedelen</h5>
